@@ -1,5 +1,4 @@
-# PaleoSizeDB
-PaleoSize Database--A database of fossil animal and protist body sizes
+# PaleoSizeDB: A database of fossil animal and protist body sizes
 
 ## This Repository is Under Development, please check back soon for more updates
 ![Development and trunk segmentation of Gunnia sp. Figure 7 from Shen et al. 2014](img/trilodevelopment.png)
