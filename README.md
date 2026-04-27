@@ -17,7 +17,7 @@ The linked document, [measurement_guide.pdf](measurement_guide.pdf), provides a 
 
 #### Excel Templates
 
-* [Bivalvia](bivalveTemplate.xlsx)
+* [Bivalvia](bivalveTemplate.xlsx) 
 * [Gastropoda](gastropodTemplate.xlsx)
 * [Cephalopod](cephalopodTemplate.xlsx)
 * [Trilobita](trilobiteTemplate.xlsx)
