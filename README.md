@@ -1,3 +1,7 @@
+---
+title: The PaleoSize Database
+---
+
 # PaleoSizeDB: A database of fossil animal and protist body sizes
 
 ## This Repository is Under Development, please check back soon for more updates
