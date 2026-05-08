@@ -1,6 +1,5 @@
 ---
-title: "The PaleoSize Database"
-author: "Noel A. Heim"
+title: The PaleoSize Database
 ---
 
 # PaleoSizeDB: A database of fossil animal and protist body sizes
