@@ -10,14 +10,20 @@ The PaleoSize Database is an archive of body sizes for fossil marine animals--in
 
 ## The Data Files
 
-Currently, we have two data files available in this repository. The first, [*genera_range_through.txt*](genera_range_through.txt) is a file with the total stratigraphic range, body size, and functional ecological mode for Phanerozoic marine genera. The second, [*species_sizes.txt*](species_sizes.txt), is compilation of species-level body sizes for species of marine animals and benthic foraminifera.
+Currently, we have two data files available in this repository. The first, [*genera_range_through.txt*](genera_range_through.txt) is a file with the total stratigraphic range, body size, and functional ecological mode for Phanerozoic marine genera. The second, [*species_sizes.txt*](species_sizes.txt), is compilation of species-level body sizes for species of marine animals and benthic foraminifera. There is also a timescale file that corresponds to the times for first and last occurrence for each taxon: [*timescale.txt*](timescale.txt).
 
 Here is some R code to load the data files directly from GitHub. The files are tab-delimited.
 
-```r {get_files)
+```r {genus_file)
 genera <- read.delim(file="https://raw.githubusercontent.com/naheim/PaleoSizeDB/master/genera_range_through.txt")
+```
 
+```r {species_file)
 species <- read.delim(file="https://raw.githubusercontent.com/naheim/PaleoSizeDB/master/species_sizes.txt")
+```
+
+```r {time_file)
+species <- read.delim(file="https://raw.githubusercontent.com/naheim/PaleoSizeDB/master/timescale.txt")
 ```
 
 ## The Data Collection Guide & Templates
