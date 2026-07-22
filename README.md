@@ -23,7 +23,7 @@ species <- read.delim(file="https://raw.githubusercontent.com/naheim/PaleoSizeDB
 ```
 
 ```r {time_file)
-species <- read.delim(file="https://raw.githubusercontent.com/naheim/PaleoSizeDB/master/timescale.txt")
+timescale <- read.delim(file="https://raw.githubusercontent.com/naheim/PaleoSizeDB/master/timescale.txt")
 ```
 
 ## The Data Collection Guide & Templates
